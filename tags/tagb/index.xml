@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tagb on 8beesoftware BLOG.</title>
+    <link>https://8beesoftware.github.io/tags/tagb/</link>
+    <description>Recent content in Tagb on 8beesoftware BLOG.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 07 Mar 2019 14:12:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://8beesoftware.github.io/tags/tagb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://8beesoftware.github.io/post/hello-world/</link>
+      <pubDate>Thu, 07 Mar 2019 14:12:47 +0900</pubDate>
+      
+      <guid>https://8beesoftware.github.io/post/hello-world/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
