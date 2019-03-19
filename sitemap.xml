@@ -8,18 +8,24 @@
   </url>
   
   <url>
-    <loc>https://8beesoftware.github.io/post/test/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://8beesoftware.github.io/about/</loc>
     <lastmod>2019-03-19T15:42:34+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://8beesoftware.github.io/post/hello/</loc>
+    <lastmod>2019-03-19T14:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://8beesoftware.github.io/post/hello-world/</loc>
     <lastmod>2019-03-07T14:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://8beesoftware.github.io/tags/</loc>
+    <lastmod>2019-03-19T14:12:47+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -35,7 +41,7 @@
   
   <url>
     <loc>https://8beesoftware.github.io/post/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-19T14:12:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,7 +59,7 @@
   
   <url>
     <loc>https://8beesoftware.github.io/tags/</loc>
-    <lastmod>2019-03-07T14:12:47+09:00</lastmod>
+    <lastmod>2019-03-19T14:12:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   

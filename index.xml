@@ -21,21 +21,22 @@
     </item>
     
     <item>
-      <title>test</title>
-      <link>https://8beesoftware.github.io/post/test/</link>
-      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://8beesoftware.github.io/post/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://8beesoftware.github.io/about/</link>
       <pubDate>Tue, 19 Mar 2019 15:42:34 +0900</pubDate>
       
       <guid>https://8beesoftware.github.io/about/</guid>
       <description>Write something about you here.</description>
+    </item>
+    
+    <item>
+      <title>ブログを開始しました。</title>
+      <link>https://8beesoftware.github.io/post/hello/</link>
+      <pubDate>Tue, 19 Mar 2019 14:12:47 +0900</pubDate>
+      
+      <guid>https://8beesoftware.github.io/post/hello/</guid>
+      <description>&lt;p&gt;もうすぐ新年度と言うことで、心機一転システムを hugo　にして
+ブログを開始しました。WEBプログラミングや電子工作や日々のダイヤリーを記していくことにします。&lt;/p&gt;</description>
     </item>
     
     <item>
